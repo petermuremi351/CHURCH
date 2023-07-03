@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>LibChurch - Event Template</title>
+	<title>stpatrickcatholickilifi - Event Template</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="LibChurch Event Template">
 	<meta name="keywords" content="event, libChurch, creative, html">
@@ -427,7 +427,7 @@
 
 	<!-- Footer section -->
 
-   
+
 
 	<footer class="footer-section">
 		<div class="container">

@@ -211,7 +211,7 @@
 					<ul class="donate-info">
 						<li>Sermon From: <span>Vincent John</span></li>
 						<li>Categories: <span>God, Pray</span></li>
-						<li><span>On Monday 23 DEC, 2018</span></li>
+						<li><span>On Monday 23 June, 2023</span></li>
 					</ul>
 					<p>For God did not send his Son into the world to condemn the world, but to save the world through him. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese mollit anim id est laborum. Sed ut perspiciatis unde omnis iste.</p>
 				</div>
@@ -252,7 +252,7 @@
 					<div class="blog-item">
 						<div class="bi-thumb set-bg" data-setbg="{{ asset('img/blog/1.jpg') }}"></div>
 						<div class="bi-content">
-							<div class="date">On Monday 13 May, 2018</div>
+							<div class="date">On Monday 13 May, 2023</div>
 							<h4><a href="single-blog.html">Give To End Childhood illnesses</a></h4>
 							<div class="bi-author">by <a href="#">Sofia Joelsson</a></div>
 							<a href="#" class="bi-cata">Hope & Faithful</a>
@@ -274,7 +274,7 @@
 					<div class="blog-item">
 						<div class="bi-thumb set-bg" data-setbg="{{ asset('img/blog/3.jpg') }}"></div>
 						<div class="bi-content">
-							<div class="date">On Monday 13 May, 2018</div>
+							<div class="date">On Monday 13 May, 2023</div>
 							<h4><a href="single-blog.html">Why We Give Back To Children's Colorado</a></h4>
 							<div class="bi-author">by <a href="#">Sofia Joelsson</a></div>
 							<a href="#" class="bi-cata">Sermon & Pray</a>
